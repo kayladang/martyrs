@@ -6,7 +6,8 @@ editor: Kayla Dang
 source: "Matenadaran 1522"
 ---
 
-#Translation
+# Translation
+
 The martyrdom of Saint Grigor the Persian, in the 15th year of the reign of Xusrō, son of Hormizd, king of the Persians. A command went out from the king through all the provinces of his sovereignty / principality (*ənd amenayn gawaṙ̇s išxanut‘ean iwroy*), that those who had come from the nation of the Persians who had confessed in Christ would be seized and held in prison, and persecuted with harsh torments, so that apostates from the service of God (?) would worship the sun and serve the fire. And when this command reached judges (*datawors*) all over, there was much agitation in the holy church, and great sorrow, since in every province, by ardently holding his faith, they would bring bitter torments upon (themselves). For them there arrived divine help that tempered their hearts towards patience, out of which they endured many tortures, by sword and by fire, and strangulation and crucifixion,  with good courses they crowned the hair / conduct (?)  of their lives. 
 
 In that time, there was a certain man whose name was Manačihr,  from the land of Ṙažik (i.e. Rayy), from a family called Mihran. He was in the army (*zinvorut‘iwn*) in the land of the Georgians (*Vrac‘ ašharh*), and he hoped in the God of heaven and earth, in the Father and the Son and the Holy Spirit, and he took the name Grigorios; him did  the Holy Spirit arrange for battle in the ranks of the angels.
@@ -23,7 +24,8 @@ Then the holy Girgorios, having become even more bold, with a loud voice denied 
 
 At that time the mogpet ordered all the loyal Magians to carry the holy Grigor to a different place and kill him by sword. And when they had brought the holy one to the place, they cut off his head while he praised the all-holy Trinity, the Father and the Son and the Holy Spirit, and by worshipping (his) glory (?) we might also approach this great dominion (?), so that glory and power and honor are his (lit. “are proper for him”) now and always and forever and ever. Amen.
 
-#Armenian text
+# Armenian text
+
 Ի հինգետասաներորդում ի թագաւորութեան Խոսրովայ, որդւոյ Որմզդի Պարսից արքայի ել հրաման յարքայէ ընդ ամենայն գաւառս իշխանութեան իւրոյ, որպէս զի զորս գացեն յազգէ Պարսից խոստովանեալ ի Քրիստոս՝ կալեալ արգելցեն ի բանդ և խիստ տասջանաւք բռնադատեսցեն, զի ուրացեալք զաստուած պաշտութիւն երկրպագեսցեն արեգական և պաշտեսցեն զհուր:
 
 Եւ ի հասանել այսպիսի հրամանի առ դատաւորս տեղեաց տեղեաց՝ խռովութիւն յոյժ լինէր սրբոյ եկեղեցւոյ և տրտմութիւն մեծ, զի յամենայն գաւառս ունելով ի նորա հաւատիցն՝ սաստիկ և դառն տանջանս ի վերայ հասուցանէին, որոց ժամանեալ աստուածային աւգնականութիւնն կարծրացուցանէր զսիրտս նոցա ի ժուժկալութիւն, յորմէ բազում տանջանաց համբերէին՝ սրոյ և հրոյ, և խեղդման և փայտի, բարի ընթացիւք կատարեալ զվարս կենաց իւրեանց:
